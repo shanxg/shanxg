@@ -1,5 +1,12 @@
 ## Hi there, I'm shanxg - aka [Lucas Rivaldo][linkedin] 👋
 
+<details>
+  <summary> 🤏🏽 A brief story about me</summary>
+
+   #### - asdsadasdasdasdasdadasd
+
+</details>
+
 ### I'm a Father, Husband, Developer, Artist and about to be more!!
 
 - 🔭 I'm just starting at programming, but i feel that i can do incredible things!
