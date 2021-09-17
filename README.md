@@ -31,16 +31,16 @@
 <br />
 
 
-### :zap: Recent GitHub Activity 
+### :zap: My personal portfolio
   
 <!--START_SECTION:activity-->
-1. 📲 (Clone) Uber [#1](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
-2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
-3. 📲 (Clone) Ifood[#3](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
-4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/) @[shanxg/](hhttps://github.com/shanxg/)
-5. 📲 (Clone) OLX [#5](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
-6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
-7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+1. 📲 (Clone) Uber [#1](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
+2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
+3. 📲 (Clone) Ifood [#3](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
+4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/) at [shanxg/](hhttps://github.com/shanxg/)
+5. 📲 (Clone) OLX [#5](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
+6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
+7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/) at[shanxg/](https://github.com/shanxg/)
 <!--END_SECTION:activity-->
 
 
@@ -48,7 +48,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shanxg&show_icons=true&hide_border=true" />
 
 </details>
 
