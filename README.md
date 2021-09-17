@@ -14,7 +14,31 @@
 ## A brief story about me 🤏🏽
 
 <details>
-  <summary list-style: none> Check here </summary>
+  <style type="text/css">
+    details {
+    font: 16px "Open Sans", Calibri, sans-serif;
+    width: 620px;
+  }
+  details > summary {
+    padding: 2px 6px;
+    width: 15em;
+    background-color: #ddd;
+    border: none;
+    box-shadow: 3px 3px 4px black;
+    cursor: pointer;
+  }
+  details > p {
+    border-radius: 0 0 10px 10px;
+    background-color: #ddd;
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px black;
+  }
+  details[open] > summary {
+    background-color: #ccf;
+  }
+</style>
+  <summary> Check here </summary>
 
    ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
