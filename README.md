@@ -1,6 +1,6 @@
-### Hi there, I'm shanxg - aka [Lucas Rivaldo][linkedin] 👋
+## Hi there, I'm shanxg - aka [Lucas Rivaldo][linkedin] 👋
 
-## I'm a Father, Husband, Developer, Artist and about to be more!!
+### I'm a Father, Husband, Developer, Artist and about to be more!!
 
 - 🔭 I'm just starting at programming, but i feel that i can do incredible things!
 - 🌱 I’m currently unemployed and learning everything 🤣
@@ -28,11 +28,10 @@
 
 
 <br />
+<br />
 
 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity 
   
 <!--START_SECTION:activity-->
 1. 📲 (Clone) Uber [#1](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
@@ -44,7 +43,7 @@
 7. 📲 (Clone) Organizze [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
