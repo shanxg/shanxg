@@ -14,7 +14,7 @@
 ## A brief story about me 🤏🏽
 
 <details>
-  <summary> Check here </summary>
+  <summary list-style="none"> Check here </summary>
 
    ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -32,10 +32,14 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -50,7 +54,7 @@
 1. 📲 (Clone) Uber [#1](https://github.com/shanxg/Uber) [@shanxg/Uber](https://github.com/shanxg/Uber)
 2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/Clone_FlappyBird) [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
 3. 📲 (Clone) Ifood [#3](https://github.com/shanxg/Clone_Ifood) [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
-4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/Clone_Instagram) [@shanxg/Clone_Instagram](hhttps://github.com/shanxg/Clone_Instagram)
+4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/Clone_Instagram) [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
 5. 📲 (Clone) OLX [#5](https://github.com/shanxg/Clone_OLX) [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
 6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/Clone_WhatsApp) [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
 7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/Organizze) [@shanxg/Organizze](https://github.com/shanxg/Organizze)
