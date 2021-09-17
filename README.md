@@ -10,12 +10,28 @@
 - ⚡ Some Funs fact: I love to write poetry and RAP, i also like and have skills producing music, editing audio and video.
 
 <details>
-  <summary> <h3>A brief story about me 🤏🏽</h3> </summary>
+  <summary> <p>++ A brief story about me ++🤏🏽</p> </summary>
 
    - asdsadasdasdasdasdadasd
    
 
 </details>
+
+<template>
+  <div>
+    <h1>Here's a headline</h1>
+    <gl-button class="float-right" category="primary">
+      Toggle Collapse
+    </gl-button>
+    <gl-collapse class="gl-mt-2" :visible="false" id="collapse">
+      <span>
+        This content can be hidden by default, which is good if there are some
+        extensive details that should only be visible if the user wants to
+        interact with them
+      </span>
+    </gl-collapse>
+  </div>
+</template>
 
 
 ### Connect with me:
