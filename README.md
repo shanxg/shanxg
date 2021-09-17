@@ -47,13 +47,13 @@
 ### 👷🏽 My personal portfolio
   
 <!--START_SECTION:activity-->
-1. 📲 (Clone) Uber [#1](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
-2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
-3. 📲 (Clone) Ifood [#3](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
-4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/) at [shanxg/](hhttps://github.com/shanxg/)
-5. 📲 (Clone) OLX [#5](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
-6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
-7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/) at[shanxg/](https://github.com/shanxg/)
+1. 📲 (Clone) Uber [#1](https://github.com/shanxg/Uber) [@shanxg/Uber](https://github.com/shanxg/Uber)
+2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/Clone_FlappyBird) [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
+3. 📲 (Clone) Ifood [#3](https://github.com/shanxg/Clone_Ifood) [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
+4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/Clone_Instagram) [@shanxg/Clone_Instagram](hhttps://github.com/shanxg/Clone_Instagram)
+5. 📲 (Clone) OLX [#5](https://github.com/shanxg/Clone_OLX) [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
+6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/Clone_WhatsApp) [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
+7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/Organizze) [@shanxg/Organizze](https://github.com/shanxg/Organizze)
 <!--END_SECTION:activity-->
 
 ---
