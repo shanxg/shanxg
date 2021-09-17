@@ -13,7 +13,7 @@
 
 ## A brief story about me 🤏🏽
 
-<details font="20px">
+<details>
 
   <summary> Check here </summary>
 
