@@ -13,7 +13,7 @@
 
 ## A brief story about me 🤏🏽
 
-<details>
+<details open>
 
   <summary> Check here </summary>
 
