@@ -9,15 +9,17 @@
 - 🥅 2021 Goals: Get a job as developer, improve my knowledge and skills, put some plans i have on the drawer into action.
 - ⚡ Some Funs fact: I love to write poetry and RAP, i also like and have skills producing music, editing audio and video.
 
-<details style="details-style.css">
-  <summary> A brief story about me 🤏🏽 </summary>
+<br />
+
+## A brief story about me 🤏🏽
+
+<details>
+  <summary> Read more... </summary>
 
    - asdsadasdasdasdasdadasd
    
 
 </details>
-
-
 
 ### Connect with me:
 
