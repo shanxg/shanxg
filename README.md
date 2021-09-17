@@ -1,7 +1,7 @@
 ## Hi there, I'm shanxg - aka [Lucas Rivaldo][linkedin] 👋
 
 <details>
-   <title> A brief story about me 🤏🏽 </title>
+  ## <summary> A brief story about me 🤏🏽 </summary>
 
    - asdsadasdasdasdasdadasd
 
