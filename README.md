@@ -1,14 +1,5 @@
 ## Hi there, I'm shanxg - aka [Lucas Rivaldo][linkedin] 👋
 
-<details>
-  <link rel="stylesheet" href="details-style.css">
-  <summary> A brief story about me 🤏🏽 </summary>
-
-   - asdsadasdasdasdasdadasd
-   
-
-</details>
-
 ### I'm a Father, Husband, Developer, Artist and about to be more!!
 
 - 🔭 I'm just starting at programming, but i feel that i can do incredible things!
@@ -17,6 +8,15 @@
 - 👯 I'm looking to collaborate with any company that wants to have a reliable, dedicated, self-taught developer, full of ideas and willing to put them into practice, as well as putting the team's ideas into practice.
 - 🥅 2021 Goals: Get a job as developer, improve my knowledge and skills, put some plans i have on the drawer into action.
 - ⚡ Some Funs fact: I love to write poetry and RAP, i also like and have skills producing music, editing audio and video.
+
+<details>
+  <summary> <h1>A brief story about me 🤏🏽</h1> </summary>
+
+   - asdsadasdasdasdasdadasd
+   
+
+</details>
+
 
 ### Connect with me:
 
@@ -40,7 +40,7 @@
 <br />
 
 
-### :zap: My personal portfolio
+### 👷🏽 My personal portfolio
   
 <!--START_SECTION:activity-->
 1. 📲 (Clone) Uber [#1](https://github.com/shanxg/) at [shanxg/](https://github.com/shanxg/)
@@ -52,15 +52,12 @@
 7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/) at[shanxg/](https://github.com/shanxg/)
 <!--END_SECTION:activity-->
 
-
+---
 
 ### 📈 GitHub Stats 
 
----
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shanxg&show_icons=true&hide_border=true" />
-
-
 
 
 ###
@@ -68,3 +65,4 @@
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/~
+
