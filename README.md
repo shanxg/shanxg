@@ -34,13 +34,13 @@
 ### :zap: Recent GitHub Activity 
   
 <!--START_SECTION:activity-->
-1. 📲 (Clone) Uber [#1](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 📲 (Clone) Flappybird [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 📲 (Clone) Ifood[#3](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 📲 (Clone) OLX [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 📲 (Clone) Instagram [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-6. 📲 (Clone) WhatsApp [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-7. 📲 (Clone) Organizze [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 📲 (Clone) Uber [#1](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+2. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+3. 📲 (Clone) Ifood[#3](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/) @[shanxg/](hhttps://github.com/shanxg/)
+5. 📲 (Clone) OLX [#5](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
+7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/) @[shanxg/](https://github.com/shanxg/)
 <!--END_SECTION:activity-->
 
 
