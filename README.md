@@ -10,7 +10,8 @@
 - ⚡ Some Funs fact: I love to write poetry and RAP, i also like and have skills producing music, editing audio and video.
 
 <details>
-  <summary> <h3>A brief story about me 🤏🏽</h1> </summary>
+  <h3>A brief story about me 🤏🏽</h3>
+  <summary>  </summary>
 
    - asdsadasdasdasdasdadasd
    
