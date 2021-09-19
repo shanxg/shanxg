@@ -58,7 +58,7 @@
 4. 📲 (Clone) Instagram [#4](https://github.com/shanxg/Clone_Instagram) [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
 5. 📲 (Clone) OLX [#5](https://github.com/shanxg/Clone_OLX) [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
 6. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/Clone_WhatsApp) [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/Organizze) [@shanxg/Organizze](https://github.com/shanxg/Organizze)
+7. 📲 (Clone) Organizze [#7](https://github.com/shanxg/Organizze) [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
 <!--END_SECTION:activity-->
 
 ---
