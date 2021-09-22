@@ -49,7 +49,8 @@
 <br />
 
 
-### 👷🏽 My personal portfolio
+## 👷🏽 My personal portfolio <br>
+### I ordered my portoflio by personal preference, the hashed number represents the order in wich i learned. 
   
 <!--START_SECTION:activity-->
 1. 📲 (Clone) Uber [#4](https://github.com/shanxg/Uber) [@shanxg/Uber](https://github.com/shanxg/Uber)
