@@ -53,13 +53,13 @@
 ### I organized my portoflio by the order in wich i learned and the hashed number represents personal preference. 
   
 <!--START_SECTION:activity-->
-1. 📲 (Clone) Organizze [#7](https://github.com/shanxg/Organizze) [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
-2. 📲 (Clone) WhatsApp [#6](https://github.com/shanxg/Clone_WhatsApp) [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-3. 📲 (Clone) Instagram [#4](https://github.com/shanxg/Clone_Instagram) [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
-4. 📲 (Clone) Uber [#1](https://github.com/shanxg/Uber) [@shanxg/Uber](https://github.com/shanxg/Uber)
-5. 📲 (Clone) Flappybird [#2](https://github.com/shanxg/Clone_FlappyBird) [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
-6. 📲 (Clone) OLX [#5](https://github.com/shanxg/Clone_OLX) [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
-7. 📲 (Clone) Ifood [#3](https://github.com/shanxg/Clone_Ifood) [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
+1. 📲 (Clone) Organizze **[#7]** [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
+2. 📲 (Clone) WhatsApp **[#6]** [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
+3. 📲 (Clone) Instagram **[#4]** [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
+4. 📲 (Clone) Uber **[#1]** [@shanxg/Uber](https://github.com/shanxg/Uber)
+5. 📲 (Clone) Flappybird **[#2]** [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
+6. 📲 (Clone) OLX **[#5]** [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
+7. 📲 (Clone) Ifood **[#3]** [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
 <!--END_SECTION:activity-->
 
 ---
