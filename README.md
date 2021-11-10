@@ -2,13 +2,13 @@
 
 ### I'm a Father, Husband, Developer, Artist and about to be more!!
 
-- 🔭 I'm just starting at programming, but i feel that i can do incredible things!
-- 🌱 I’m currently learning everything 
+- 🔭 I'm just a programming student, but i feel that i can do incredible things!
+- 🌱 I’m currently learning everything
 - 📚 Studying Big data & Data Science at Uniritter Laureate. 
 - 💎 Attending to "The Complete React Native" course at Udemy.
 - 👯 I'm looking to collaborate with any company that wants to have a reliable, dedicated, self-taught developer, full of ideas and willing to put them into practice, as well as putting the team's ideas into practice.
 - 🥅 2021 Goals: Get a job as developer, improve my knowledge and skills, put some plans i have on the drawer into action.
-- ⚡ Some Funs fact: I love to write poetry and RAP, i also like and have skills producing music, editing audio and video.
+- ⚡ Some Funs fact: I like to write poetry and RAP, i also like and have skills producing music, editing audio and video.
 
 <br />
 
