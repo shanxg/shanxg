@@ -4,7 +4,7 @@
 
 - 🔭 I'm just a programming student, but i feel that i can do incredible things!
 - 🌱 I’m currently learning everything
-- 📚 Studying Big data & Data Science at Uniritter Laureate. 
+- 📚 Studying Big data & Data Science at UniRitter Laureate. 
 - 💎 Attending to "Microservices with Node JS and React" course at Udemy.
 - 👷🏽 Android Developer for Embedded Automotive Applications at Ford Motor Company
 - 🥅 2021 Goals: ✅ Get a job as developer, ✅ improve my knowledge and skills, put some plans i have on the drawer into action.
