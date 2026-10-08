@@ -77,10 +77,10 @@
 ### I organized my portoflio by the order in wich i learned and the hashed number represents personal preference. 
   
 <!--START_SECTION:activity-->
-1. 📲 <span color="black">**(Clone) Organizze**</span> *<span color="green">**[#7]**</span>* [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
-2. 📲 <span color="black">**(Clone) WhatsApp**</span> *<span color="green">**[#6]**</span>* [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-3. 📲 <span color="black">**(Clone) Instagram**</span> *<span color="green">**[#4]**</span>* [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
-4. 📲 <span color="black">**(Clone) Uber**</span> *<span color="green">**[#1]**</span>* [@shanxg/Uber](https://github.com/shanxg/Uber)
+1. 📲 <span color="black">**Maestro AI Integrated API**</span> *<span color="green">**[#1]**</span>* [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
+2. 📲 <span color="black">**(Clone) Organizze**</span> *<span color="green">**[#7]**</span>* [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
+3. 📲 <span color="black">**(Clone) WhatsApp**</span> *<span color="green">**[#6]**</span>* [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
+4. 📲 <span color="black">**(Clone) Instagram**</span> *<span color="green">**[#4]**</span>* [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
 5. 📲 <span color="black">**(Clone) Flappybird**</span> *<span color="green">**[#2]**</span>* [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
 6. 📲 <span color="black">**(Clone) OLX**</span> *<span color="green">**[#5]**</span>* [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
 7. 📲 <span color="black">**(Clone) Ifood**</span> *<span color="green">**[#3]**</span>* [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
