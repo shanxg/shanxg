@@ -1,4 +1,4 @@
-##👋 Hi there, I'm [Lucas Rivaldo][linkedin] - aka shanxg
+## 👋 Hi there, I'm [Lucas Rivaldo][linkedin] - aka shanxg
 
 ### I'm a Father, Husband, Developer, Artist and about to be more!!
 
