@@ -112,7 +112,7 @@ Originally brought in for a 3-month contract to design and kickstart the AI pipe
 
 
 ## 👷🏽 My personal portfolio <br>
-### this my portoflio, hashed number represents complexity and personal preference. 
+### <span color="green">**[#X]**</span> Hashed number represents complexity and personal preference. 
   
 <!--START_SECTION:activity-->
 - *<span color="green">**[#1]**</span>* 💻 <span color="black">**Maestro AI Integrated API -**</span> [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
