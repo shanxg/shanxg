@@ -1,14 +1,14 @@
-## Hi there, I'm [Lucas Rivaldo][linkedin] - aka shanxg 👋
+##👋 Hi there, I'm [Lucas Rivaldo][linkedin] - aka shanxg
 
 ### I'm a Father, Husband, Developer, Artist and about to be more!!
 
-- 🔭 I'm just a programming student, but i feel that i can do incredible things!
+- 👷🏽 Full Stack & AI Engineer
 - 🌱 I’m currently learning everything
 - 📚 Studying Big data & Data Science at UniRitter Laureate. 
-- 💎 Attending to "Microservices with Node JS and React" course at Udemy.
-- 👷🏽 Android Developer for Embedded Automotive Applications at Ford Motor Company
-- 🥅 2021 Goals: ✅ Get a job as developer, ✅ improve my knowledge and skills, put some plans i have on the drawer into action.
-- ⚡ Some Funs fact: I like to write poetry and RAP, i also like and have skills producing music, editing audio and video.
+- 💎 Improving skills with personal software development.
+- 🔭 I'm just a non-stop programming student!
+- 🥅 2026 Goals: ✅Consolidate as Senior Software Engineer.
+- ⚡ Some Funs fact: I like to write poetry and RAP, 🥊 18 years experienced pugilist, i also like and have skills producing music, editing audio and video.
 
 <br />
 
@@ -33,7 +33,7 @@
 <br />
 
 ### Languages and Tools:
-
+<p align="left">
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
@@ -48,7 +48,26 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+<img alt="" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img alt="kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
+<img alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
+<img alt="rabbitmq" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+<img alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+<img alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img alt="jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+<img alt="json" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<img alt="kali" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" />
+<img alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+<img alt="yaml" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+<img alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</p>      
 
 <br />
 <br />
