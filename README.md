@@ -33,7 +33,7 @@
 <br />
 
 ### Languages and Tools:
-<p align="left">
+
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
@@ -50,40 +50,45 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-<img alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img alt="kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
-<img alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
-<img alt="rabbitmq" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
-<img alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
-<img alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img alt="jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-<img alt="jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-<img alt="json" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img alt="kali" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" />
-<img alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
-<img alt="yaml" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
-<img alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-<img alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-</p>      
+
+<br />
+
+<p align="left"></p>   
+<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
+<img align="left" alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
+<img align="left" alt="rabbitmq" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+<img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+<img align="left" alt="json" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<img align="left" alt="kali" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" />
+<img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+<img align="left" alt="yaml" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   
 
 <br />
 <br />
 
 
 ## 👷🏽 My personal portfolio <br>
-### I organized my portoflio by the order in wich i learned and the hashed number represents personal preference. 
+### this my portoflio, hashed number represents complexity and personal preference. 
   
 <!--START_SECTION:activity-->
-1. 📲 <span color="black">**Maestro AI Integrated API**</span> *<span color="green">**[#1]**</span>* [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
-2. 📲 <span color="black">**(Clone) Organizze**</span> *<span color="green">**[#7]**</span>* [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
-3. 📲 <span color="black">**(Clone) WhatsApp**</span> *<span color="green">**[#6]**</span>* [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-4. 📲 <span color="black">**(Clone) Instagram**</span> *<span color="green">**[#4]**</span>* [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
-5. 📲 <span color="black">**(Clone) Flappybird**</span> *<span color="green">**[#2]**</span>* [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
-6. 📲 <span color="black">**(Clone) OLX**</span> *<span color="green">**[#5]**</span>* [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
-7. 📲 <span color="black">**(Clone) Ifood**</span> *<span color="green">**[#3]**</span>* [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
+1. 📲 *<span color="green">**[#1]**</span>* <span color="black">**Maestro AI Integrated API -**</span> [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
+2. 📲 *<span color="green">**[#2]**</span>* <span color="black">**(Clone) Uber -**</span> [@shanxg/Uber](https://github.com/shanxg/Uber)
+3. 📲 *<span color="green">**[#3]**</span>* <span color="black">**(Clone) Flappybird -**</span> [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
+4. 📲 *<span color="green">**[#4]**</span>* <span color="black">**(Clone) Ifood -**</span> [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
+5. 📲 *<span color="green">**[#5]**</span>* <span color="black">**(Clone) Instagram -**</span> [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
+6. 📲 *<span color="green">**[#6]**</span>* <span color="black">**(Clone) WhatsApp -**</span> [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
+7. 📲 *<span color="green">**[#7]**</span>* <span color="black">**(Clone) OLX -**</span> [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
+8. 📲 *<span color="green">**[#8]**</span>* <span color="black">**(Clone) Organizze -**</span> [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
 <!--END_SECTION:activity-->
 
 ---
