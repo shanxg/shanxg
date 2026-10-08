@@ -115,14 +115,14 @@ Originally brought in for a 3-month contract to design and kickstart the AI pipe
 ### this my portoflio, hashed number represents complexity and personal preference. 
   
 <!--START_SECTION:activity-->
-1. 📲 *<span color="green">**[#1]**</span>* <span color="black">**Maestro AI Integrated API -**</span> [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
-2. 📲 *<span color="green">**[#2]**</span>* <span color="black">**(Clone) Uber -**</span> [@shanxg/Uber](https://github.com/shanxg/Uber)
-3. 📲 *<span color="green">**[#3]**</span>* <span color="black">**(Clone) Flappybird -**</span> [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
-4. 📲 *<span color="green">**[#4]**</span>* <span color="black">**(Clone) Ifood -**</span> [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
-5. 📲 *<span color="green">**[#5]**</span>* <span color="black">**(Clone) Instagram -**</span> [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
-6. 📲 *<span color="green">**[#6]**</span>* <span color="black">**(Clone) WhatsApp -**</span> [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-7. 📲 *<span color="green">**[#7]**</span>* <span color="black">**(Clone) OLX -**</span> [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
-8. 📲 *<span color="green">**[#8]**</span>* <span color="black">**(Clone) Organizze -**</span> [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
+- 📲 *<span color="green">**[#1]**</span>* <span color="black">**Maestro AI Integrated API -**</span> [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
+- 📲 *<span color="green">**[#2]**</span>* <span color="black">**(Clone) Uber -**</span> [@shanxg/Uber](https://github.com/shanxg/Uber)
+- 📲 *<span color="green">**[#3]**</span>* <span color="black">**(Clone) Flappybird -**</span> [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
+- 📲 *<span color="green">**[#4]**</span>* <span color="black">**(Clone) Ifood -**</span> [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
+- 📲 *<span color="green">**[#5]**</span>* <span color="black">**(Clone) Instagram -**</span> [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
+- 📲 *<span color="green">**[#6]**</span>* <span color="black">**(Clone) WhatsApp -**</span> [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
+- 📲 *<span color="green">**[#7]**</span>* <span color="black">**(Clone) OLX -**</span> [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
+- 📲 *<span color="green">**[#8]**</span>* <span color="black">**(Clone) Organizze -**</span> [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
 <!--END_SECTION:activity-->
 
 ---
