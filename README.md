@@ -5,7 +5,7 @@
 - 👷🏽 Full Stack & AI Engineer
 - 🌱 I’m currently learning everything
 - 📚 Studying Big data & Data Science at UniRitter Laureate. 
-- 💎 Improving skills with personal software development.
+- 💎 Improving skills through personal software development.
 - 🔭 I'm just a non-stop programming student!
 - 🥅 2026 Goals: ✅Consolidate as Senior Software Engineer.
 - ⚡ Some Funs fact: I like to write poetry and RAP, 🥊 18 years experienced pugilist, i also like and have skills producing music, editing audio and video.
