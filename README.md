@@ -113,6 +113,8 @@ Originally brought in for a 3-month contract to design and kickstart the AI pipe
 ---
 
 ## 👷🏽 My personal portfolio <br>
+
+
 ### <span color="green">**[#X]**</span> Hashed number represents complexity and personal preference. 
   
 <!--START_SECTION:activity-->
