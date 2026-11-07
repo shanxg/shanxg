@@ -53,7 +53,7 @@ On the backend and infrastructure side, my contributions included:
 - Ensuring full compliance with HIPAA practices and OWASP safety guidelines by engineering strict data encryption, secure access controls via JWT and OAuth2, and resilient validation layers to protect sensitive patient privacy.
 - Containerizing the services with Docker and running them on AWS ECS Fargate, with SQS queues decoupling the API from the AI workers and autoscaling based on queue depth.
 <br/>
-Originally brought in on a 3-month contract to help kickstart the AI pipeline, the quality of my deliveries led to an extension, for a total of about seven months (March to October 2026). This allowed me to fully deploy the infrastructure, secure the APIs, and stabilize the system successfully in production before the project reached its natural conclusion.
+Originally brought in on a 3-month contract to help kickstart the AI pipeline, the quality of my deliveries led to an extension, for a total of about seven months (March to September 2026). This allowed me to fully deploy the infrastructure, secure the APIs, and stabilize the system successfully in production before the project reached its natural conclusion.
 </details>
 
 <br />
