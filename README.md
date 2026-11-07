@@ -112,31 +112,36 @@ Originally brought in on a 3-month contract to help kickstart the AI pipeline, t
 
 
 
-## 👷🏽 My personal portfolio 
+## 👷🏽 My personal portfolio
 
+### 💻 Featured
 
-### <span color="green">**[#X]**</span> Hashed number represents complexity and personal preference. 
-  
-<!--START_SECTION:activity-->
-- *<span color="green">**[#1]**</span>* 💻 <span color="black">**Maestro AI Integrated API -**</span> [@shanxg/Maestro AI Integrated API](https://github.com/shanxg/maestro-stack-ai-integration-api)
-- *<span color="green">**[#2]**</span>* 📲 <span color="black">**(Clone) Uber -**</span> [@shanxg/Uber](https://github.com/shanxg/Uber)
-- *<span color="green">**[#3]**</span>* 📲 <span color="black">**(Clone) Flappybird -**</span> [@shanxg/Clone_FlappyBird](https://github.com/shanxg/Clone_FlappyBird)
-- *<span color="green">**[#4]**</span>* 📲 <span color="black">**(Clone) Ifood -**</span> [@shanxg/Clone_Ifood](https://github.com/shanxg/Clone_Ifood)
-- *<span color="green">**[#5]**</span>* 📲 <span color="black">**(Clone) Instagram -**</span> [@shanxg/Clone_Instagram](https://github.com/shanxg/Clone_Instagram)
-- *<span color="green">**[#6]**</span>* 📲 <span color="black">**(Clone) WhatsApp -**</span> [@shanxg/Clone_WhatsApp](https://github.com/shanxg/Clone_WhatsApp)
-- *<span color="green">**[#7]**</span>* 📲 <span color="black">**(Clone) OLX -**</span> [@shanxg/Clone_OLX](https://github.com/shanxg/Clone_OLX)
-- *<span color="green">**[#8]**</span>* 📲 <span color="black">**(Clone) Organizze -**</span> [@shanxg/Organizze](https://github.com/shanxg/Clone_Organizze)
-<!--END_SECTION:activity-->
+- **Maestro Stack AI Integration API** — full-stack API with AI chat, then a full AppSec remediation: 37 security fixes, each backed by a regression test · [@shanxg/maestro-stack-ai-integration-api](https://github.com/shanxg/maestro-stack-ai-integration-api)
+
+### 📲 Android Portfolio (2021)
+
+Built during an Android development program, before Ford. Instead of copying the lessons, I paused each video, wrote my own solution, and only then compared it with the instructor's. Most repos keep the instructor's demo video for that comparison.
+
+| App | What it does |
+| --- | --- |
+| [Food delivery](https://github.com/shanxg/food-delivery-android) | Separate customer and restaurant accounts, restaurant settings and product management |
+| [Ride-hailing](https://github.com/shanxg/ride-hailing-android) | Ride app with Google Maps geolocation |
+| [Chat](https://github.com/shanxg/chat-app-android) | One-to-one and group chats, picture messages, search |
+| [Social feed](https://github.com/shanxg/social-feed-android) | Profiles, posts, feed with likes and comments, user search |
+| [Classifieds](https://github.com/shanxg/classifieds-android) | Publish and delete ads, search filters |
+| [Personal finance](https://github.com/shanxg/personal-finance-android) | Income and expense tracking |
+| [2D game](https://github.com/shanxg/libgdx-2d-game) | Side-scrolling game built with libGDX |
+
+Stack: Java, Kotlin, Firebase, Retrofit, Google Maps SDK, libGDX.
 
 ---
 
-### 📈 GitHub Stats 
+### 📈 GitHub Stats
 
-
-<img align="left" alt="shanxg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shanxg&show_icons=true&hide_border=true" />
-
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanxg&theme=github_dark" />
+  <img alt="shanxg's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanxg&theme=github" />
+</picture>
 
 [twitter]: https://twitter.com/lucasrivaldo6
 [instagram]: https://instagram.com/lucasrivaldo/
